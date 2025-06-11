@@ -1,4 +1,4 @@
-const i = 0;
+const i = 3;
 const numberOfArgument = i - 2;
 if(numberOfArgument === 0){
     console.log("No Argument");

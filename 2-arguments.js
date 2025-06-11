@@ -11,9 +11,8 @@ else{
     console.log("Arguments found");
 }
 }
-printMessageForArgumentCount(0); 
+console.log("No Argument"); 
 
-printMessageForArgumentCount(1); 
+console.log("Argument Found"); 
 
-printMessageForArgumentCount(2); 
-
+console.log("Arguments Found");

@@ -1,8 +1,3 @@
-//const numberOfArguments = process.argv.length - 2;
-
-// Use conditional statements (if/else if/else) to determine the message
-// based on the *actual* number of arguments received in this specific execution.
-
 if (process.argv[2] == null) {
   console.log("No argument");
 } 

@@ -6,7 +6,7 @@ if (numberOfArguments == 2) {
 } 
 else if (numberOfArguments == 1)
 { 
-  console.log(arg2, "is", undefined);
+  console.log(arg1, "is", undefined);
 }
 else {
     console.log(undefined, "is", undefined);
